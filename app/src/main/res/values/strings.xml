@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MorseSMS</string>
+    <string name="permission_alert_dialog_title">SMS Permissions</string>
+    <string name="permission_dialog_message">
+        MorseSMS will now request send/read SMS permissions on your device.
+        This is required to use the application.
+    </string>
+    <string name="action_ok">ok</string>
+    <string name="morse_service_started">MorseSMS service started</string>
+    <string name="morse_service_stopped">MorseSMS service stopped</string>
+    <string name="morse_service_label">MorseSMS</string>
+</resources>
